@@ -4,8 +4,8 @@ import MovieCard from './MovieCard';
 import SearchIcon from './search.svg';
 
 // adaf3639
-// const API_URL ='https://www.omdbapi.com/?i=tt3896198&apikey=adaf3639';
-const API_URL = 'https://cors-anywhere.herokuapp.com/https://www.omdbapi.com/?i=tt3896198&apikey=adaf3639';
+const API_URL ='https://www.omdbapi.com/?i=tt3896198&apikey=adaf3639';
+// const API_URL = 'https://cors-anywhere.herokuapp.com/https://ww./w.omdbapi.com/?i=tt3896198&apikey=adaf3639';
 
 
 
